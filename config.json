@@ -1,0 +1,12 @@
+{
+  "ip": "diluncodef.aternos.me",
+  "port": "51306",
+  "password": "",
+  "prefix": "",
+  "login-enabled": "false",
+  "register-cmd": "/login kartikopp kartikopp",
+  "login-cmd": "/login kartikopp",
+  "loginmsg": "done",
+  "web": "true"
+
+}
